@@ -46,8 +46,8 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
     - `ArduinoJson`  
 
 - **MQTT 설정**  
-  - MQTT 브로커 주소: `ai.doowon.ac.kr`  
-  - 구독 토픽: `i2r/kwsktj12858@gmail.com/out`  
+  - MQTT 브로커 주소: ``  
+  - 구독 토픽: ``  
 
 - **App Inventor 앱**  
   - JSON 데이터를 표시하고 RC/로봇팔 모드 전환 버튼 구현  
@@ -75,9 +75,9 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 ---
 ## 📧 문의 및 참고자료
 - 이메일: kwsktj12858@gmail.com
-- 참고 자료:
+  # 참고 자료:
 - https://www.youtube.com/watch?v=55onRTxbPg4  [Lee Curiosity] YOUTUBE
 - https://youtu.be/F0ZvF-FbCr0?si=yOhaSjOO77qrbwSI [Eben Kouao] YOUTUBE
-- 3D MODEL 자료:
+  # 3D MODEL 자료:
 - EEZYbotARM MK2 by daGHIZmo on Thingiverse: https://www.thingiverse.com/thing:1454048
 - [https://www.youtube.com/watch?v=TqKYJ64Kpoo] [https://www.youbionic.com/] 에서 구매
