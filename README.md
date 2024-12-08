@@ -96,7 +96,7 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
   "gz": 677,
   "potValues": [6, 5, 4, 21, 1019]
 }
----
+---json
 
 ## 🗂 폴더 구조  
 📂 Project_RobotArm_RC
