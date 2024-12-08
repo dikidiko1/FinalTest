@@ -84,8 +84,8 @@ json
   "gz": 677,
   "potValues": [6, 5, 4, 21, 1019]
 }
-
-📧 문의 및 참고자료
+---
+## 📧 문의 및 참고자료
 이메일: kwsktj12858@gmail.com
 참고 자료:
 Adafruit PWM Servo Driver 라이브러리
