@@ -43,6 +43,9 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 │   ├── system_diagram.png      // 하드웨어 시스템 다이어그램
 │   ├── app_control_ui.png      // 스마트폰 앱 UI
 └── README.md                   // 프로젝트 설명 파일
+
+
+
 하드웨어 연결
 Arduino Uno와 ESP8266 모듈 연결
 서보모터 및 DC 모터 연결
