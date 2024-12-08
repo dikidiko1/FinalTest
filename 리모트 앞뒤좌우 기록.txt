@@ -1,0 +1,2263 @@
+2024. 12. 4. 오후 9:44:55node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11640
+ay: 2220
+az: 10236
+gx: -289
+gy: -74
+gz: -168
+potValues: array[5]
+0: 182
+1: 113
+2: 72
+3: 93
+4: 1007
+2024. 12. 4. 오후 9:44:56node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11396
+ay: 2120
+az: 10068
+gx: -408
+gy: -14
+gz: -85
+potValues: array[5]
+2024. 12. 4. 오후 9:44:56node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11556
+ay: 2148
+az: 10028
+gx: -569
+gy: 12
+gz: -238
+potValues: array[5]
+2024. 12. 4. 오후 9:44:57node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11552
+ay: 2120
+az: 10080
+gx: -98
+gy: 21
+gz: -122
+2024. 12. 4. 오후 9:44:57node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11660
+ay: 1980
+az: 10296
+gx: -922
+gy: -287
+gz: -322
+potValues: array[5]
+2024. 12. 4. 오후 9:44:58node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11444
+ay: 2468
+az: 9940
+gx: -231
+gy: -261
+gz: -422
+potValues: array[5]
+2024. 12. 4. 오후 9:44:58node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11036
+ay: 1852
+az: 10572
+gx: 271
+gy: 36
+gz: 258
+potValues: array[5]
+2024. 12. 4. 오후 9:44:59node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11220
+ay: 1944
+az: 10196
+gx: -495
+gy: -230
+gz: -374
+potValues: array[5]
+2024. 12. 4. 오후 9:45:00node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11060
+ay: 2148
+az: 10300
+gx: -426
+gy: -288
+gz: -205
+potValues: array[5]
+2024. 12. 4. 오후 9:45:00node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11608
+ay: 2100
+az: 10408
+gx: -292
+gy: -329
+gz: -68
+2024. 12. 4. 오후 9:45:01node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11480
+ay: 1864
+az: 10332
+gx: -202
+gy: -388
+gz: 54
+potValues: array[5]
+2024. 12. 4. 오후 9:45:01node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11452
+ay: 1988
+az: 10468
+gx: -285
+gy: -183
+gz: 90
+potValues: array[5]
+2024. 12. 4. 오후 9:45:02node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11312
+ay: 2248
+az: 10300
+gx: -362
+gy: -105
+gz: -65
+potValues: array[5]
+2024. 12. 4. 오후 9:45:03node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11212
+ay: 2456
+az: 10332
+gx: -310
+gy: 382
+gz: -268
+potValues: array[5]
+2024. 12. 4. 오후 9:45:03node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11300
+ay: 2096
+az: 10236
+gx: -263
+gy: -303
+gz: -151
+potValues: array[5]
+2024. 12. 4. 오후 9:45:04node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11340
+ay: 2252
+az: 10468
+gx: -262
+gy: -38
+gz: -131
+2024. 12. 4. 오후 9:45:04node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11256
+ay: 2260
+az: 10108
+gx: -262
+gy: -229
+gz: -309
+potValues: array[5]
+2024. 12. 4. 오후 9:45:05node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11328
+ay: 2056
+az: 10224
+gx: -141
+gy: 231
+gz: -287
+potValues: array[5]
+2024. 12. 4. 오후 9:45:06node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11376
+ay: 2240
+az: 10328
+gx: -500
+gy: 23
+gz: -235
+potValues: array[5]
+2024. 12. 4. 오후 9:45:06node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -11500
+ay: 1248
+az: 10832
+gx: -2277
+gy: 436
+gz: -1125 
+
+
+앞으로 숙인거
+
+2024. 12. 4. 오후 9:47:28node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16668
+ay: -1332
+az: 3400
+gx: -307
+gy: 184
+gz: -934
+potValues: array[5]
+2024. 12. 4. 오후 9:47:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16088
+ay: -996
+az: 3120
+gx: -496
+gy: -435
+gz: -878
+potValues: array[5]
+2024. 12. 4. 오후 9:47:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16908
+ay: -1120
+az: 2796
+gx: 897
+gy: -215
+gz: 332
+potValues: array[5]
+2024. 12. 4. 오후 9:47:30node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16124
+ay: -1672
+az: 3560
+gx: -784
+gy: -22
+gz: -139
+potValues: array[5]
+2024. 12. 4. 오후 9:47:31node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16304
+ay: -1360
+az: 3448
+gx: -442
+gy: -116
+gz: 1
+potValues: array[5]
+2024. 12. 4. 오후 9:47:31node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16568
+ay: -1496
+az: 3368
+gx: -252
+gy: 18
+gz: -116
+potValues: array[5]
+2024. 12. 4. 오후 9:47:32node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16424
+ay: -1172
+az: 3284
+gx: -90
+gy: -131
+gz: -173
+potValues: array[5]
+2024. 12. 4. 오후 9:47:32node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16428
+ay: -1504
+az: 3360
+gx: -299
+gy: 164
+gz: -15
+potValues: array[5]
+2024. 12. 4. 오후 9:47:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16312
+ay: -1260
+az: 3392
+gx: 104
+gy: -409
+gz: -179
+potValues: array[5]
+2024. 12. 4. 오후 9:47:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16148
+ay: -1604
+az: 3448
+gx: -304
+gy: -72
+gz: -192
+potValues: array[5]
+2024. 12. 4. 오후 9:47:34node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16432
+ay: -1332
+az: 3508
+gx: -247
+gy: -106
+gz: -351
+potValues: array[5]
+2024. 12. 4. 오후 9:47:35node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16348
+ay: -1372
+az: 3328
+gx: -340
+gy: 112
+gz: -270
+potValues: array[5]
+2024. 12. 4. 오후 9:47:35node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16484
+ay: -1240
+az: 3560
+gx: -654
+gy: -149
+gz: 46
+potValues: array[5]
+2024. 12. 4. 오후 9:47:36node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16180
+ay: -1156
+az: 3416
+gx: 21
+gy: 67
+gz: -437
+potValues: array[5]
+2024. 12. 4. 오후 9:47:36node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16460
+ay: -1240
+az: 3620
+gx: -414
+gy: -43
+gz: -390
+potValues: array[5]
+2024. 12. 4. 오후 9:47:37node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16412
+ay: -936
+az: 3588
+gx: -551
+gy: -209
+gz: 211
+potValues: array[5]
+2024. 12. 4. 오후 9:47:38node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16272
+ay: -900
+az: 3532
+gx: -545
+gy: -215
+gz: -7
+potValues: array[5]
+2024. 12. 4. 오후 9:47:38node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16516
+ay: -1088
+az: 3404
+gx: -223
+gy: -73
+gz: -121
+potValues: array[5]
+2024. 12. 4. 오후 9:47:39node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16252
+ay: -908
+az: 3416
+gx: -224
+gy: 118
+gz: 171
+potValues: array[5]
+2024. 12. 4. 오후 9:47:39node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16328
+ay: -1072
+az: 3420
+gx: -420
+gy: -217
+gz: -70
+potValues: array[5]
+2024. 12. 4. 오후 9:47:40node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16220
+ay: -948
+az: 3480
+gx: -428
+gy: -135
+gz: 215
+potValues: array[5]
+2024. 12. 4. 오후 9:47:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16664
+ay: -916
+az: 3396
+gx: 237
+gy: -278
+gz: -278
+potValues: array[5]
+2024. 12. 4. 오후 9:47:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16664
+ay: -1088
+az: 3772
+gx: -438
+gy: -7
+gz: 736
+potValues: array[5]
+2024. 12. 4. 오후 9:47:42node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16284
+ay: -1000
+az: 3236
+gx: 544
+gy: -360
+gz: -797
+potValues: array[5]
+2024. 12. 4. 오후 9:47:42node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16824
+ay: -976
+az: 3512
+gx: -620
+gy: 30
+gz: 1217
+potValues: array[5]
+2024. 12. 4. 오후 9:47:43node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+{ ax: 16720, ay: -372, az: 3916, gx: -859, gy: 531 … }
+2024. 12. 4. 오후 9:47:43node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16132
+ay: -1496
+az: 3908
+gx: -450
+gy: 59
+gz: 1104
+potValues: array[5]
+2024. 12. 4. 오후 9:47:44node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16368
+ay: -1712
+az: 3412
+gx: 98
+gy: 74
+gz: -276
+potValues: array[5]
+0: 6
+1: 6
+2: 6
+3: 6
+4: 1018
+2024. 12. 4. 오후 9:47:45node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15848
+ay: -1736
+az: 3692
+gx: -337
+gy: -38
+gz: -251
+potValues: array[5]
+2024. 12. 4. 오후 9:47:45node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16232
+ay: -1740
+az: 3812
+gx: -284
+gy: -32
+gz: 21
+potValues: array[5]
+2024. 12. 4. 오후 9:47:46node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16252
+ay: -1580
+az: 3784
+gx: -10
+gy: -490
+gz: -325
+
+
+뒤로 한거
+
+2024. 12. 4. 오후 9:49:28node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2968
+ay: 15904
+az: -2676
+gx: -342
+gy: -5
+gz: -151
+potValues: array[5]
+2024. 12. 4. 오후 9:49:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2996
+ay: 15920
+az: -2676
+gx: -373
+gy: -121
+gz: -99
+2024. 12. 4. 오후 9:49:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2904
+ay: 15888
+az: -2616
+gx: -425
+gy: -75
+gz: -191
+2024. 12. 4. 오후 9:49:30node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2412
+ay: 15844
+az: -2536
+gx: -347
+gy: -74
+gz: -389
+2024. 12. 4. 오후 9:49:30node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2524
+ay: 15948
+az: -2684
+gx: -243
+gy: -139
+gz: 6
+2024. 12. 4. 오후 9:49:31node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2648
+ay: 16248
+az: -2816
+gx: -223
+gy: -233
+gz: -134
+potValues: array[5]
+2024. 12. 4. 오후 9:49:31node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2572
+ay: 16124
+az: -2916
+gx: -186
+gy: -123
+gz: 382
+potValues: array[5]
+2024. 12. 4. 오후 9:49:32node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2656
+ay: 15696
+az: -2952
+gx: -465
+gy: -102
+gz: -323
+potValues: array[5]
+2024. 12. 4. 오후 9:49:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2012
+ay: 16048
+az: -2888
+gx: -280
+gy: -251
+gz: -424
+potValues: array[5]
+2024. 12. 4. 오후 9:49:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2320
+ay: 15848
+az: -2928
+gx: -91
+gy: -104
+gz: 307
+potValues: array[5]
+2024. 12. 4. 오후 9:49:34node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2372
+ay: 15980
+az: -2952
+gx: 60
+gy: -77
+gz: 250
+potValues: array[5]
+2024. 12. 4. 오후 9:49:34node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2836
+ay: 15588
+az: -2792
+gx: -590
+gy: -163
+gz: -840
+potValues: array[5]
+2024. 12. 4. 오후 9:49:35node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2224
+ay: 16208
+az: -2628
+gx: -338
+gy: -322
+gz: -189
+potValues: array[5]
+2024. 12. 4. 오후 9:49:36node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1964
+ay: 16196
+az: -2692
+gx: -343
+gy: -325
+gz: -404
+potValues: array[5]
+2024. 12. 4. 오후 9:49:36node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2088
+ay: 15992
+az: -2608
+gx: -442
+gy: -150
+gz: -244
+potValues: array[5]
+2024. 12. 4. 오후 9:49:37node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2132
+ay: 16104
+az: -2544
+gx: -420
+gy: -39
+gz: -145
+potValues: array[5]
+2024. 12. 4. 오후 9:49:37node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2048
+ay: 16112
+az: -2860
+gx: -453
+gy: -132
+gz: -219
+potValues: array[5]
+2024. 12. 4. 오후 9:49:38node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1896
+ay: 16076
+az: -2712
+gx: -342
+gy: -130
+gz: -202
+potValues: array[5]
+2024. 12. 4. 오후 9:49:38node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1952
+ay: 16108
+az: -2760
+gx: -262
+gy: -111
+gz: -236
+potValues: array[5]
+2024. 12. 4. 오후 9:49:39node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2280
+ay: 15780
+az: -2912
+gx: -520
+gy: 118
+gz: 234
+potValues: array[5]
+2024. 12. 4. 오후 9:49:40node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2852
+ay: 15540
+az: -2608
+gx: -245
+gy: -292
+gz: -867
+potValues: array[5]
+2024. 12. 4. 오후 9:49:40node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2188
+ay: 15760
+az: -2560
+gx: -70
+gy: 16
+gz: -432
+potValues: array[5]
+2024. 12. 4. 오후 9:49:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2192
+ay: 16064
+az: -2752
+gx: 678
+gy: 5
+gz: -432
+potValues: array[5]
+2024. 12. 4. 오후 9:49:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 2448
+ay: 15904
+az: -2932
+gx: 690
+gy: 453
+gz: -257
+potValues: array[5]
+2024. 12. 4. 오후 9:49:42node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 928
+ay: 16340
+az: -3836
+gx: -12
+gy: 1017
+gz: 238
+
+
+오른쪽으로 한거
+
+
+2024. 12. 4. 오후 9:51:07node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 508
+ay: -15848
+az: 3540
+gx: -378
+gy: -135
+gz: -4
+2024. 12. 4. 오후 9:51:07node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 516
+ay: -15732
+az: 3392
+gx: -284
+gy: -155
+gz: -296
+2024. 12. 4. 오후 9:51:08node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 344
+ay: -15848
+az: 3604
+gx: 41
+gy: -297
+gz: -256
+2024. 12. 4. 오후 9:51:08node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 452
+ay: -16424
+az: 3428
+gx: 108
+gy: -32
+gz: -73
+potValues: array[5]
+2024. 12. 4. 오후 9:51:09node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 436
+ay: -16280
+az: 3184
+gx: -111
+gy: -107
+gz: -223
+potValues: array[5]
+2024. 12. 4. 오후 9:51:09node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 604
+ay: -15772
+az: 3092
+gx: 515
+gy: -224
+gz: -754
+potValues: array[5]
+2024. 12. 4. 오후 9:51:10node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 704
+ay: -16184
+az: 3356
+gx: -518
+gy: 16
+gz: -255
+potValues: array[5]
+2024. 12. 4. 오후 9:51:10node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 644
+ay: -15800
+az: 3336
+gx: -281
+gy: -86
+gz: -338
+potValues: array[5]
+2024. 12. 4. 오후 9:51:11node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 844
+ay: -15856
+az: 3612
+gx: -92
+gy: -168
+gz: 33
+potValues: array[5]
+2024. 12. 4. 오후 9:51:12node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 864
+ay: -15716
+az: 3504
+gx: -58
+gy: -168
+gz: -274
+potValues: array[5]
+2024. 12. 4. 오후 9:51:12node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1284
+ay: -15944
+az: 3452
+gx: -232
+gy: -208
+gz: -329
+potValues: array[5]
+2024. 12. 4. 오후 9:51:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 992
+ay: -15980
+az: 3176
+gx: -1344
+gy: -293
+gz: 420
+potValues: array[5]
+2024. 12. 4. 오후 9:51:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 980
+ay: -16412
+az: 3056
+gx: -520
+gy: -58
+gz: 56
+potValues: array[5]
+2024. 12. 4. 오후 9:51:14node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1060
+ay: -16040
+az: 3180
+gx: -523
+gy: -106
+gz: -182
+potValues: array[5]
+2024. 12. 4. 오후 9:51:15node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1148
+ay: -16156
+az: 3024
+gx: -812
+gy: -190
+gz: -153
+potValues: array[5]
+2024. 12. 4. 오후 9:51:15node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1292
+ay: -15964
+az: 3044
+gx: -602
+gy: -140
+gz: -7
+potValues: array[5]
+2024. 12. 4. 오후 9:51:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1468
+ay: -15980
+az: 3224
+gx: -806
+gy: 5
+gz: 188
+potValues: array[5]
+2024. 12. 4. 오후 9:51:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1400
+ay: -16188
+az: 3168
+gx: -275
+gy: -89
+gz: -123
+potValues: array[5]
+2024. 12. 4. 오후 9:51:17node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1540
+ay: -16000
+az: 3376
+gx: -475
+gy: -6
+gz: -272
+potValues: array[5]
+2024. 12. 4. 오후 9:51:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1724
+ay: -15636
+az: 3412
+gx: 140
+gy: -191
+gz: -354
+potValues: array[5]
+2024. 12. 4. 오후 9:51:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1872
+ay: -16024
+az: 3468
+gx: -551
+gy: -132
+gz: -62
+potValues: array[5]
+2024. 12. 4. 오후 9:51:19node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1712
+ay: -15716
+az: 3532
+gx: -694
+gy: -179
+gz: -297
+potValues: array[5]
+2024. 12. 4. 오후 9:51:19node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1652
+ay: -15992
+az: 3432
+gx: -1089
+gy: -695
+gz: 156
+potValues: array[5]
+2024. 12. 4. 오후 9:51:20node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1480
+ay: -16012
+az: 2968
+gx: -1072
+gy: -180
+gz: 108
+potValues: array[5]
+2024. 12. 4. 오후 9:51:20node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1728
+ay: -15804
+az: 3176
+gx: -472
+gy: -80
+gz: 32
+potValues: array[5]
+2024. 12. 4. 오후 9:51:21node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1912
+ay: -15836
+az: 3280
+gx: 595
+gy: -139
+gz: -168
+potValues: array[5]
+2024. 12. 4. 오후 9:51:22node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 1564
+ay: -15052
+az: 3048
+gx: -81
+gy: -1157
+gz: 1112
+potValues: array[5]
+2024. 12. 4. 오후 9:51:22node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 888
+ay: -15168
+az: 3636
+gx: 1455
+gy: 134
+gz: -322
+potValues: array[5]
+2024. 12. 4. 오후 9:51:23node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 144
+ay: -15996
+az: 2524
+gx: -1000
+gy: -145
+gz: 530
+potValues: array[5]
+
+
+왼쪽으로한거
+
+
+
+2024. 12. 4. 오후 9:52:39node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9492
+ay: 2456
+az: 12688
+gx: -68
+gy: -180
+gz: -160
+potValues: array[5]
+2024. 12. 4. 오후 9:52:39node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9456
+ay: 2140
+az: 12828
+gx: -220
+gy: -110
+gz: -64
+2024. 12. 4. 오후 9:52:40node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9508
+ay: 2288
+az: 12552
+gx: -16
+gy: -135
+gz: -211
+2024. 12. 4. 오후 9:52:40node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9580
+ay: 2364
+az: 12736
+gx: -413
+gy: -293
+gz: -52
+2024. 12. 4. 오후 9:52:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9508
+ay: 2308
+az: 12488
+gx: -529
+gy: -204
+gz: -66
+2024. 12. 4. 오후 9:52:41node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9624
+ay: 2360
+az: 12728
+gx: -764
+gy: -149
+gz: 271
+potValues: array[5]
+2024. 12. 4. 오후 9:52:42node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9668
+ay: 2284
+az: 12664
+gx: -76
+gy: -159
+gz: -117
+potValues: array[5]
+2024. 12. 4. 오후 9:52:43node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9744
+ay: 1940
+az: 12464
+gx: 151
+gy: 55
+gz: -259
+potValues: array[5]
+2024. 12. 4. 오후 9:52:43node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9648
+ay: 2288
+az: 12688
+gx: -494
+gy: -72
+gz: 0
+potValues: array[5]
+2024. 12. 4. 오후 9:52:44node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9612
+ay: 2264
+az: 12728
+gx: -456
+gy: -214
+gz: -143
+potValues: array[5]
+2024. 12. 4. 오후 9:52:44node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9560
+ay: 2140
+az: 12828
+gx: -332
+gy: -29
+gz: -76
+potValues: array[5]
+2024. 12. 4. 오후 9:52:45node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9496
+ay: 2220
+az: 12492
+gx: -181
+gy: -11
+gz: -191
+potValues: array[5]
+2024. 12. 4. 오후 9:52:45node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9488
+ay: 2212
+az: 12660
+gx: -264
+gy: 67
+gz: -185
+potValues: array[5]
+2024. 12. 4. 오후 9:52:46node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9404
+ay: 2256
+az: 12824
+gx: -481
+gy: -133
+gz: -54
+potValues: array[5]
+2024. 12. 4. 오후 9:52:47node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9472
+ay: 2384
+az: 12740
+gx: -264
+gy: 11
+gz: -135
+potValues: array[5]
+2024. 12. 4. 오후 9:52:47node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9612
+ay: 2332
+az: 12712
+gx: -467
+gy: -269
+gz: 48
+potValues: array[5]
+2024. 12. 4. 오후 9:52:48node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9596
+ay: 2216
+az: 12868
+gx: -610
+gy: -39
+gz: 166
+potValues: array[5]
+2024. 12. 4. 오후 9:52:48node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9416
+ay: 2184
+az: 12596
+gx: -555
+gy: -204
+gz: -86
+potValues: array[5]
+2024. 12. 4. 오후 9:52:49node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9120
+ay: 2352
+az: 12612
+gx: -343
+gy: -105
+gz: 32
+potValues: array[5]
+2024. 12. 4. 오후 9:52:50node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9344
+ay: 2216
+az: 12952
+gx: -230
+gy: -25
+gz: -231
+potValues: array[5]
+2024. 12. 4. 오후 9:52:50node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9252
+ay: 2320
+az: 12984
+gx: -245
+gy: -197
+gz: -117
+potValues: array[5]
+2024. 12. 4. 오후 9:52:51node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9392
+ay: 2212
+az: 12664
+gx: -98
+gy: -192
+gz: -221
+potValues: array[5]
+2024. 12. 4. 오후 9:52:51node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9264
+ay: 2116
+az: 12692
+gx: -467
+gy: 39
+gz: -77
+potValues: array[5]
+2024. 12. 4. 오후 9:52:52node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9368
+ay: 2280
+az: 13048
+gx: 161
+gy: -143
+gz: -337
+potValues: array[5]
+2024. 12. 4. 오후 9:52:53node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9392
+ay: 2376
+az: 12672
+gx: -644
+gy: -190
+gz: 7
+potValues: array[5]
+2024. 12. 4. 오후 9:52:53node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9236
+ay: 1484
+az: 12928
+gx: 252
+gy: 620
+gz: -116
+potValues: array[5]
+2024. 12. 4. 오후 9:52:54node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9060
+ay: 1572
+az: 12960
+gx: 356
+gy: -328
+gz: -157
+potValues: array[5]
+2024. 12. 4. 오후 9:52:54node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 9072
+ay: 2096
+az: 12608
+gx: -706
+gy: -167
+gz: -697
+
+
+정지 할때
+
+
+2024. 12. 4. 오후 9:56:09node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7632
+ay: 11288
+az: 7916
+gx: -318
+gy: -179
+gz: -64
+potValues: array[5]
+2024. 12. 4. 오후 9:56:10node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7296
+ay: 11020
+az: 8036
+gx: -404
+gy: -312
+gz: -318
+potValues: array[5]
+2024. 12. 4. 오후 9:56:10node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7316
+ay: 11156
+az: 8088
+gx: -566
+gy: -51
+gz: -305
+potValues: array[5]
+2024. 12. 4. 오후 9:56:11node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7292
+ay: 10844
+az: 8020
+gx: -353
+gy: -201
+gz: -56
+potValues: array[5]
+2024. 12. 4. 오후 9:56:12node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7472
+ay: 10980
+az: 8160
+gx: -29
+gy: -157
+gz: -81
+potValues: array[5]
+2024. 12. 4. 오후 9:56:12node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7288
+ay: 10936
+az: 8136
+gx: -215
+gy: -111
+gz: -49
+potValues: array[5]
+2024. 12. 4. 오후 9:56:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7396
+ay: 11076
+az: 7984
+gx: -364
+gy: -113
+gz: -249
+potValues: array[5]
+2024. 12. 4. 오후 9:56:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7500
+ay: 11164
+az: 8152
+gx: -416
+gy: -212
+gz: -248
+potValues: array[5]
+2024. 12. 4. 오후 9:56:14node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7348
+ay: 10936
+az: 7888
+gx: -518
+gy: -295
+gz: -95
+potValues: array[5]
+2024. 12. 4. 오후 9:56:15node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7144
+ay: 11024
+az: 8124
+gx: -154
+gy: -16
+gz: -250
+potValues: array[5]
+2024. 12. 4. 오후 9:56:15node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7328
+ay: 11348
+az: 8192
+gx: -403
+gy: 7
+gz: -246
+potValues: array[5]
+2024. 12. 4. 오후 9:56:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7120
+ay: 11140
+az: 7880
+gx: -329
+gy: -337
+gz: -215
+potValues: array[5]
+2024. 12. 4. 오후 9:56:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7044
+ay: 11316
+az: 7884
+gx: 49
+gy: 187
+gz: -151
+potValues: array[5]
+2024. 12. 4. 오후 9:56:17node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7548
+ay: 11648
+az: 8160
+gx: -314
+gy: 25
+gz: -336
+potValues: array[5]
+2024. 12. 4. 오후 9:56:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7524
+ay: 11244
+az: 8104
+gx: -38
+gy: -399
+gz: -387
+potValues: array[5]
+2024. 12. 4. 오후 9:56:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7404
+ay: 11384
+az: 8012
+gx: -257
+gy: 31
+gz: -286
+potValues: array[5]
+2024. 12. 4. 오후 9:56:19node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7208
+ay: 11004
+az: 7976
+gx: -660
+gy: -85
+gz: 98
+potValues: array[5]
+2024. 12. 4. 오후 9:56:19node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7124
+ay: 11544
+az: 8020
+gx: -230
+gy: 164
+gz: -187
+potValues: array[5]
+2024. 12. 4. 오후 9:56:20node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8040
+ay: 11820
+az: 7888
+gx: -1616
+gy: 219
+gz: 16
+potValues: array[5]
+2024. 12. 4. 오후 9:56:21node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7392
+ay: 10952
+az: 7524
+gx: 307
+gy: 158
+gz: -310
+potValues: array[5]
+2024. 12. 4. 오후 9:56:21node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8064
+ay: 10616
+az: 7724
+gx: -383
+gy: -403
+gz: -437
+potValues: array[5]
+
+우측 앞으로 대각
+
+2024. 12. 4. 오후 9:58:12node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16448
+ay: 3780
+az: -32
+gx: -477
+gy: -46
+gz: -67
+potValues: array[5]
+2024. 12. 4. 오후 9:58:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16424
+ay: 3828
+az: -200
+gx: 192
+gy: 210
+gz: -326
+2024. 12. 4. 오후 9:58:13node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16472
+ay: 3852
+az: 88
+gx: -46
+gy: -61
+gz: -357
+2024. 12. 4. 오후 9:58:14node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16352
+ay: 3900
+az: -68
+gx: -239
+gy: -318
+gz: -419
+2024. 12. 4. 오후 9:58:14node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16296
+ay: 3936
+az: -240
+gx: -165
+gy: -143
+gz: -179
+2024. 12. 4. 오후 9:58:15node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16476
+ay: 3608
+az: -288
+gx: -259
+gy: -90
+gz: 173
+potValues: array[5]
+2024. 12. 4. 오후 9:58:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16468
+ay: 3676
+az: -340
+gx: -27
+gy: -68
+gz: -84
+potValues: array[5]
+2024. 12. 4. 오후 9:58:16node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16484
+ay: 3908
+az: -84
+gx: -138
+gy: -38
+gz: 259
+potValues: array[5]
+2024. 12. 4. 오후 9:58:17node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16368
+ay: 4032
+az: 52
+gx: -370
+gy: -140
+gz: -34
+potValues: array[5]
+2024. 12. 4. 오후 9:58:17node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16360
+ay: 4112
+az: -148
+gx: -223
+gy: -91
+gz: -100
+potValues: array[5]
+2024. 12. 4. 오후 9:58:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16236
+ay: 4084
+az: -200
+gx: -267
+gy: -179
+gz: -201
+potValues: array[5]
+2024. 12. 4. 오후 9:58:18node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16424
+ay: 4164
+az: -148
+gx: -202
+gy: -176
+gz: -288
+potValues: array[5]
+2024. 12. 4. 오후 9:58:19node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16460
+ay: 3772
+az: -180
+gx: -232
+gy: -159
+gz: -34
+potValues: array[5]
+2024. 12. 4. 오후 9:58:20node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16304
+ay: 4744
+az: -672
+gx: -489
+gy: -7
+gz: -215
+potValues: array[5]
+2024. 12. 4. 오후 9:58:20node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16268
+ay: 4616
+az: -732
+gx: -672
+gy: 5
+gz: -42
+potValues: array[5]
+2024. 12. 4. 오후 9:58:21node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16252
+ay: 4472
+az: -544
+gx: 456
+gy: 253
+gz: -414
+potValues: array[5]
+2024. 12. 4. 오후 9:58:21node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16364
+ay: 5024
+az: -900
+gx: 95
+gy: -585
+gz: 782
+potValues: array[5]
+2024. 12. 4. 오후 9:58:22node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16180
+ay: 4772
+az: -728
+gx: -496
+gy: 184
+gz: -108
+potValues: array[5]
+2024. 12. 4. 오후 9:58:23node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16236
+ay: 4488
+az: -860
+gx: -311
+gy: -54
+gz: 345
+potValues: array[5]
+2024. 12. 4. 오후 9:58:23node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16668
+ay: 4336
+az: -856
+gx: -290
+gy: -400
+gz: -75
+potValues: array[5]
+2024. 12. 4. 오후 9:58:24node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15908
+ay: 3968
+az: -736
+gx: -583
+gy: 306
+gz: -188
+potValues: array[5]
+2024. 12. 4. 오후 9:58:24node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15636
+ay: 5048
+az: -852
+gx: 897
+gy: 166
+gz: 341
+potValues: array[5]
+2024. 12. 4. 오후 9:58:25node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16520
+ay: 4060
+az: -712
+gx: -511
+gy: 675
+gz: 128
+potValues: array[5]
+2024. 12. 4. 오후 9:58:25node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16664
+ay: 3048
+az: -724
+gx: 778
+gy: -31
+gz: -225
+potValues: array[5]
+2024. 12. 4. 오후 9:58:26node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16248
+ay: 3972
+az: -1444
+gx: 57
+gy: -13
+gz: -371
+potValues: array[5]
+
+
+우측 뒤로 대각
+
+2024. 12. 4. 오후 9:59:22node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8132
+ay: -9684
+az: 8716
+gx: -545
+gy: 78
+gz: -277
+potValues: array[5]
+2024. 12. 4. 오후 9:59:23node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8224
+ay: -9604
+az: 8992
+gx: 330
+gy: -578
+gz: 575
+2024. 12. 4. 오후 9:59:23node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8356
+ay: -10536
+az: 9044
+gx: -531
+gy: 484
+gz: -247
+potValues: array[5]
+2024. 12. 4. 오후 9:59:24node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8420
+ay: -9872
+az: 9028
+gx: 145
+gy: 2
+gz: -122
+potValues: array[5]
+2024. 12. 4. 오후 9:59:25node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8492
+ay: -9736
+az: 9004
+gx: 37
+gy: -451
+gz: -38
+potValues: array[5]
+2024. 12. 4. 오후 9:59:25node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8332
+ay: -9480
+az: 8956
+gx: -282
+gy: 341
+gz: -193
+potValues: array[5]
+2024. 12. 4. 오후 9:59:26node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8436
+ay: -9644
+az: 8944
+gx: -464
+gy: -97
+gz: -140
+potValues: array[5]
+2024. 12. 4. 오후 9:59:26node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8400
+ay: -9940
+az: 9108
+gx: -419
+gy: -122
+gz: -129
+potValues: array[5]
+2024. 12. 4. 오후 9:59:27node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8604
+ay: -9864
+az: 8856
+gx: -312
+gy: -762
+gz: -233
+potValues: array[5]
+2024. 12. 4. 오후 9:59:28node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8552
+ay: -9432
+az: 8844
+gx: -472
+gy: -525
+gz: -84
+potValues: array[5]
+2024. 12. 4. 오후 9:59:28node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8460
+ay: -9552
+az: 8960
+gx: -461
+gy: -15
+gz: -295
+potValues: array[5]
+2024. 12. 4. 오후 9:59:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8372
+ay: -9768
+az: 9096
+gx: -54
+gy: -129
+gz: 24
+potValues: array[5]
+2024. 12. 4. 오후 9:59:29node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8316
+ay: -9812
+az: 8980
+gx: -312
+gy: -91
+gz: -241
+potValues: array[5]
+2024. 12. 4. 오후 9:59:30node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8248
+ay: -9580
+az: 9020
+gx: -276
+gy: 54
+gz: -182
+potValues: array[5]
+2024. 12. 4. 오후 9:59:30node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8396
+ay: -9720
+az: 9104
+gx: -117
+gy: -289
+gz: 88
+potValues: array[5]
+2024. 12. 4. 오후 9:59:31node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8768
+ay: -9316
+az: 9024
+gx: -233
+gy: -61
+gz: -335
+potValues: array[5]
+2024. 12. 4. 오후 9:59:32node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8364
+ay: -9540
+az: 9120
+gx: 32
+gy: -150
+gz: 193
+potValues: array[5]
+2024. 12. 4. 오후 9:59:32node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8500
+ay: -9260
+az: 9116
+gx: -40
+gy: -119
+gz: -80
+potValues: array[5]
+2024. 12. 4. 오후 9:59:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -8232
+ay: -9368
+az: 10020
+gx: -1600
+gy: 300
+gz: 1406
+potValues: array[5]
+2024. 12. 4. 오후 9:59:33node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: -7948
+ay: -9000
+az: 7132
+gx: -1279
+gy: 513
+gz: 39
+potValues: array[5]
+
+좌측 전방 대각
+
+2024. 12. 4. 오후 10:00:46node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16136
+ay: -5760
+az: -156
+gx: 581
+gy: -678
+gz: 285
+2024. 12. 4. 오후 10:00:46node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15880
+ay: -5396
+az: -1292
+gx: -200
+gy: -719
+gz: 293
+2024. 12. 4. 오후 10:00:47node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15656
+ay: -4436
+az: -1472
+gx: -926
+gy: -317
+gz: 460
+2024. 12. 4. 오후 10:00:48node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 16444
+ay: -4740
+az: -1012
+gx: -666
+gy: -60
+gz: -201
+potValues: array[5]
+2024. 12. 4. 오후 10:00:48node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 15352
+ay: -7260
+az: 2012
+gx: 4869
+gy: -1862
+gz: -272
+potValues: array[5]
+2024. 12. 4. 오후 10:00:49node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13192
+ay: -9216
+az: 1472
+gx: -471
+gy: 1911
+gz: -257
+potValues: array[5]
+2024. 12. 4. 오후 10:00:49node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13380
+ay: -9908
+az: 2692
+gx: -1084
+gy: -338
+gz: 636
+potValues: array[5]
+2024. 12. 4. 오후 10:00:50node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13480
+ay: -9936
+az: 2468
+gx: -497
+gy: -276
+gz: -268
+potValues: array[5]
+2024. 12. 4. 오후 10:00:51node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13680
+ay: -9920
+az: 2380
+gx: -816
+gy: -277
+gz: -91
+potValues: array[5]
+2024. 12. 4. 오후 10:00:51node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13672
+ay: -9716
+az: 2216
+gx: -505
+gy: -215
+gz: -153
+potValues: array[5]
+2024. 12. 4. 오후 10:00:52node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13656
+ay: -9696
+az: 1996
+gx: 216
+gy: 113
+gz: -322
+potValues: array[5]
+2024. 12. 4. 오후 10:00:52node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13424
+ay: -9348
+az: 1980
+gx: -552
+gy: -157
+gz: 85
+potValues: array[5]
+2024. 12. 4. 오후 10:00:53node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13708
+ay: -9748
+az: 2340
+gx: -256
+gy: 197
+gz: -19
+potValues: array[5]
+2024. 12. 4. 오후 10:00:53node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13712
+ay: -9628
+az: 2364
+gx: -281
+gy: -492
+gz: -336
+potValues: array[5]
+2024. 12. 4. 오후 10:00:54node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13784
+ay: -9224
+az: 2436
+gx: -23
+gy: 114
+gz: -981
+potValues: array[5]
+2024. 12. 4. 오후 10:00:55node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13652
+ay: -9288
+az: 2168
+gx: -86
+gy: -22
+gz: -191
+potValues: array[5]
+2024. 12. 4. 오후 10:00:55node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13788
+ay: -9324
+az: 2820
+gx: -1
+gy: 139
+gz: -381
+potValues: array[5]
+2024. 12. 4. 오후 10:00:56node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13796
+ay: -9248
+az: 2400
+gx: -215
+gy: -253
+gz: -55
+potValues: array[5]
+2024. 12. 4. 오후 10:00:56node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13556
+ay: -9512
+az: 2248
+gx: -1490
+gy: -941
+gz: 601
+potValues: array[5]
+2024. 12. 4. 오후 10:00:57node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13136
+ay: -10224
+az: 1928
+gx: -117
+gy: -42
+gz: -438
+potValues: array[5]
+2024. 12. 4. 오후 10:00:58node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13420
+ay: -9892
+az: 1852
+gx: -386
+gy: -150
+gz: -112
+potValues: array[5]
+2024. 12. 4. 오후 10:00:58node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13324
+ay: -9960
+az: 2284
+gx: -169
+gy: -147
+gz: -478
+potValues: array[5]
+2024. 12. 4. 오후 10:00:59node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13256
+ay: -9708
+az: 2288
+gx: -177
+gy: -381
+gz: -338
+potValues: array[5]
+2024. 12. 4. 오후 10:00:59node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 13564
+ay: -9876
+az: 2660
+gx: -90
+gy: -820
+gz: 488
+potValues: array[5]
+2024. 12. 4. 오후 10:01:00node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 10352
+ay: -12084
+az: 2608
+gx: 4091
+gy: -2198
+gz: -1291
+potValues: array[5]
+2024. 12. 4. 오후 10:01:00node: debug 2
+i2r/kwsktj12858@gmail.com/out : msg.payload : Object
+object
+ax: 14336
+ay: -9260
+az: 2240
+gx: -938
+gy: 1615
+gz: -2038
+potValues: array[5]
+
+후방 좌측 대각( 기구물때문에 많이 못굽힘)
