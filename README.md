@@ -46,12 +46,13 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 ```
 
 
-## 하드웨어 연결
-Arduino Uno와 ESP8266 모듈 연결
-서보모터 및 DC 모터 연결
-소프트웨어 흐름
-스마트폰 ↔ MQTT 브로커 ↔ ESP8266 ↔ Arduino Uno
-🚀 설치 및 실행
+## **하드웨어 연결**
+- Arduino Uno와 ESP8266 모듈 연결
+- 서보모터 및 DC 모터 연결
+- 소프트웨어 흐름
+- 스마트폰 ↔ MQTT 브로커 ↔ ESP8266 ↔ Arduino Uno
+
+##  🚀 설치 및 실행
 1️⃣ 하드웨어 설정
 Arduino Uno에 서보모터 및 DC 모터 연결
 ESP8266에 MQTT 브로커 주소와 Wi-Fi 정보를 입력
@@ -75,7 +76,7 @@ Arduino 코드를 업로드
 ESP8266을 통해 MQTT 브로커에 연결
 App Inventor 앱 실행 후 Wi-Fi 연결
 
-##📋 예제 데이터
+## 📋 예제 데이터
 json
 코드 복사
 {
