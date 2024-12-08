@@ -32,22 +32,7 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 
 ---
 
-## 🌟 주요 기능  
-
-1. **모드 전환**  
-   - **엄지 손가락 값**(센서 값)에 따라 동작 모드 자동 전환:  
-     - `930 이상`: RC 모드 (자이로 센서를 통한 차량 제어)  
-     - `930 미만`: 로봇팔 모드 (손가락 별 서보모터 제어)  
-
-2. **실시간 데이터 업데이트**  
-   - MQTT를 통해 자이로 센서 값과 로봇팔 상태를 JSON 형식으로 전송  
-
-3. **스마트폰 제어**  
-   - App Inventor 기반 앱으로 모드 전환 및 센서 데이터 확인  
-
----
-
-## 📂 프로젝트 구조  
+## 📂 프로젝트 구조 및 구성도  
 
 ```plaintext
 📂 Project_RobotArm_RC
@@ -58,3 +43,50 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 │   ├── system_diagram.png      // 하드웨어 시스템 다이어그램
 │   ├── app_control_ui.png      // 스마트폰 앱 UI
 └── README.md                   // 프로젝트 설명 파일
+하드웨어 연결
+Arduino Uno와 ESP8266 모듈 연결
+서보모터 및 DC 모터 연결
+소프트웨어 흐름
+스마트폰 ↔ MQTT 브로커 ↔ ESP8266 ↔ Arduino Uno
+🚀 설치 및 실행
+1️⃣ 하드웨어 설정
+Arduino Uno에 서보모터 및 DC 모터 연결
+ESP8266에 MQTT 브로커 주소와 Wi-Fi 정보를 입력
+2️⃣ 소프트웨어 설정
+Arduino IDE 준비
+
+라이브러리 설치:
+Adafruit_PWMServoDriver
+PubSubClient
+ArduinoJson
+MQTT 설정
+
+MQTT 브로커 주소: ai.doowon.ac.kr
+구독 토픽: i2r/kwsktj12858@gmail.com/out
+App Inventor 앱 구성
+
+JSON 데이터 표시
+RC/로봇팔 모드 전환 버튼 구현
+3️⃣ 실행 방법
+Arduino 코드를 업로드
+ESP8266을 통해 MQTT 브로커에 연결
+App Inventor 앱 실행 후 Wi-Fi 연결
+📋 예제 데이터
+json
+코드 복사
+{
+  "ax": -704,
+  "ay": -1512,
+  "az": 13608,
+  "gx": -588,
+  "gy": -1410,
+  "gz": 677,
+  "potValues": [6, 5, 4, 21, 1019]
+}
+📧 문의 및 참고자료
+이메일: kwsktj12858@gmail.com
+참고 자료:
+Adafruit PWM Servo Driver 라이브러리
+PubSubClient MQTT 라이브러리
+ArduinoJson 라이브러리
+App Inventor 프로젝트 예제
