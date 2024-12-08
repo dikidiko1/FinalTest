@@ -76,7 +76,8 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 ## 📧 문의 및 참고자료
 - 이메일: kwsktj12858@gmail.com
 - 참고 자료:
-- Adafruit PWM Servo Driver 라이브러리
-- PubSubClient MQTT 라이브러리
-- ArduinoJson 라이브러리
-- App Inventor 프로젝트 예제
+- https://www.youtube.com/watch?v=55onRTxbPg4  [Lee Curiosity] YOUTUBE
+- https://youtu.be/F0ZvF-FbCr0?si=yOhaSjOO77qrbwSI [Eben Kouao] YOUTUBE
+- 3D MODEL 자료:
+- EEZYbotARM MK2 by daGHIZmo on Thingiverse: https://www.thingiverse.com/thing:1454048
+- [https://www.youtube.com/watch?v=TqKYJ64Kpoo] [https://www.youbionic.com/]에서 구매
