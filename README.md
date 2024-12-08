@@ -74,7 +74,7 @@ _"ESP8266과 MQTT, App Inventor를 활용하여 스마트폰으로 로봇팔과 
 
 ## 📋 예제 데이터
 json
-코드 복사
+``` JSON
 {
   "ax": -704,
   "ay": -1512,
@@ -83,12 +83,12 @@ json
   "gy": -1410,
   "gz": 677,
   "potValues": [6, 5, 4, 21, 1019]
-}
+}```
 ---
 ## 📧 문의 및 참고자료
-이메일: kwsktj12858@gmail.com
-참고 자료:
-Adafruit PWM Servo Driver 라이브러리
-PubSubClient MQTT 라이브러리
-ArduinoJson 라이브러리
-App Inventor 프로젝트 예제
+-이메일: kwsktj12858@gmail.com
+-참고 자료:
+-Adafruit PWM Servo Driver 라이브러리
+-PubSubClient MQTT 라이브러리
+-ArduinoJson 라이브러리
+-App Inventor 프로젝트 예제
